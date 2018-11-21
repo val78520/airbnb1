@@ -1,0 +1,27 @@
+.card
+{
+  display: flex;
+  background-image: url("");
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  height: 160px;
+  color: white;
+  margin: 10px;
+  font-family: futura;
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow: 0 0 15px black;
+  box-shadow: 0 0 15px grey;
+}
+
+.card:hover
+{
+  opacity: 0.8;
+  font-size: 30px;
+  transform: scale(1.1);
+  transition: 0.7s;
+
+
+}

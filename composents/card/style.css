@@ -1,0 +1,11 @@
+.card
+{
+  background-image: url("");
+  background-size: cover;
+  width: 500px;
+  height: 150px;
+  position: relative;
+  color: white;
+  display: flex;
+
+}
